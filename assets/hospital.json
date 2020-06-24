@@ -1,0 +1,732 @@
+[
+  {
+    "city": "New Delhi",
+    "hospitalinfo": [
+      {
+        "Name": "Ram Manohar Lohia Hospital",
+        "Address": "J6G3+73 Connaught Place, New Delhi, Delhi",
+        "Phone-no.": "01123404286"
+      },
+      {
+        "Name": "All India Institute of Medical Sciences (AIIMS)",
+        "Address": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029",
+        "Phone-no.": "01126588500"
+      },
+      {
+        "Name": "Army Hospital Research & Referral",
+        "Address": "Near, Military Hospital Road, Subroto Park, Dhaula Kuan, New Delhi, Delhi 110010",
+        "Phone-no.": "01123338199"
+      },
+      {
+        "Name": "Institute of Liver and Biliary Sciences",
+        "Address": "D1 ILBS Road, Vasant Kunj, New Delhi, Delhi 110070",
+        "Phone-no.": "01146300000"
+      }
+    ]
+  },
+  {
+    "city": "sonipat",
+    "hospitalinfo": [
+      {
+        "Name": "BPS Government Medical College for Women",
+        "Address": "Ganaur - Gohana Rd, Khanpur Kalan, Haryana 131305",
+        "Phone-no.": "01263283025"
+      }
+    ]
+  },
+  {
+    "city": "rohtak",
+    "hospitalinfo": [
+      {
+        "Name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
+        "Address": "Medical Rd, Rohtak, Haryana 124001",
+        "Phone-no.": "01262281307"
+      }
+    ]
+  },
+  {
+    "city": "meerut",
+    "hospitalinfo": [
+      {
+        "Name": "Lala Lajpat Rai Memorial Medical College",
+        "Address": "Garh Rd, Jai Bhim Nagar, Meerut, Uttar Pradesh 250002",
+        "Phone-no.": "01212760888"
+      }
+    ]
+  },
+  {
+    "city": "varanasi",
+    "hospitalinfo": [
+      {
+        "Name": "Institute of Medical Sciences",
+        "Address": "Aurobindo Colony, Banaras Hindu University Campus, Varanasi, Uttar Pradesh 221005",
+        "Phone-no.": "05422367568"
+      }
+    ]
+  },
+  {
+    "city": "lucknow",
+    "hospitalinfo": [
+      {
+        "Name": "King George's Medical University",
+        "Address": "Gole Darwaza Chowk, Chowk, Lucknow, Uttar Pradesh 226003",
+        "Phone-no.": "07985461825"
+      },
+      {
+        "Name": "Sanjay Gandhi Post Graduate Institute",
+        "Address": "New PMSSY Rd, Raibareli Rd, Lucknow, Uttar Pradesh 226014",
+        "Phone-no.": "05222668700"
+      }
+    ]
+  },
+  {
+    "city": "etawah",
+    "hospitalinfo": [
+      {
+        "Name": "Uttar Pradesh University of Medical Sciences",
+        "Address": "Off, Kurawali - Mainpuri - Etawah Rd, Saifai, Uttar Pradesh 206130",
+        "Phone-no.": "05688276569"
+      }
+    ]
+  },
+  {
+    "city": "rishekesh",
+    "hospitalinfo": [
+      {
+        "Name": "All India Institute of Medical Sciences (AIIMS)",
+        "Address": "Virbhadra Road Shivaji Nagar, near Barrage, Sturida Colony, Rishikesh, Uttarakhand 249203",
+        "Phone-no.": "1352462927"
+      }
+    ]
+  },
+  {
+    "city": "bikaner",
+    "hospitalinfo": [
+      {
+        "Name": "S.P. Medical College",
+        "Address": "SP Medical College Rd, PBM Hospital, Bikaner, Rajasthan 334001",
+        "Phone-no.": "01512220115"
+      }
+    ]
+  },
+  {
+    "city": "jodhpur",
+    "hospitalinfo": [
+      {
+        "Name": "All India Institute of Medical Sciences (AIIMS)",
+        "Address": "basni Industrial Area, MIA 2nd Phase, Basni, Jodhpur, Rajasthan 342005",
+        "Phone-no.": "02912740741"
+      },
+      {
+        "Name": "Dr. Sampurnanand Medical College",
+        "Address": "Residency Road, Near Sriram Excellency Hotel, opposite Petrol Pump, Sector-D, Shastri Nagar, Jodhpur, Rajasthan 342003",
+        "Phone-no.": "02912434374"
+      }
+    ]
+  },
+  {
+    "city": "kota",
+    "hospitalinfo": [
+      {
+        "Name": "Govt. Medical College",
+        "Address": "Rangbari Rd, Sector - A, Rangbari, Kota, Rajasthan 324010",
+        "Phone-no.": "07442470674"
+      }
+    ]
+  },
+  {
+    "city": "jhalawar",
+    "hospitalinfo": [
+      {
+        "Name": "Jhalawar Medical College",
+        "Address": "N.H.-12, Kota Rd, Jhalawar, Rajasthan 326001",
+        "Phone-no.": "07432233388"
+      }
+    ]
+  },
+  {
+    "city": "ajmer",
+    "hospitalinfo": [
+      {
+        "Name": "JLN Medical College",
+        "Address": "opp. Patel stadium, Kala Bagh, Ajmer, Rajasthan 305001",
+        "Phone-no.": "01452425050"
+      }
+    ]
+  },
+  {
+    "city": "jaipur",
+    "hospitalinfo": [
+      {
+        "Name": "Sawai Man Singh (SMS) Medical College",
+        "Address": "Jawahar Lal Nehru Marg, Gangawal Park, Adarsh Nagar, Jaipur, Rajasthan 302004",
+        "Phone-no.": "01412708836"
+      }
+    ]
+  },
+  {
+    "city": "bhopal",
+    "hospitalinfo": [
+      {
+        "Name": "All India Institute of Medical Sciences (AIIMS)",
+        "Address": "Saket Nagar, AIIMS Campus, Saket Nagar, Bagh Swaniya, Bhopal, Madhya Pradesh 462020",
+        "Phone-no.": "07552672322"
+      },
+      {
+        "Name": "Gandhi Medical College",
+        "Address": "Sultania Rd, near Hamidia Hospital, Royal Market, Medical College Campus, Kohefiza, Bhopal, Madhya Pradesh 462001",
+        "Phone-no.": "07552540590"
+      }
+    ]
+  },
+  {
+    "city": "indore",
+    "hospitalinfo": [
+      {
+        "Name": "MGM Medical College",
+        "Address": "AB Rd, CRP Line, Indore, Madhya Pradesh 452001",
+        "Phone-no.": "07312527383"
+      }
+    ]
+  },
+  {
+    "city": "raipur",
+    "hospitalinfo": [
+      {
+        "Name": "All India Institute of Medical Science (AIIMS)",
+        "Address": "Great Eastern Rd, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099",
+        "Phone-no.": "07712572240"
+      }
+    ]
+  },
+  {
+    "city": "bastar",
+    "hospitalinfo": [
+      {
+        "Name": "Late Baliram Kashyap Memorial Government Medical College",
+        "Address": "Dimrapal, Jagdalpur, Chhattisgarh 494001",
+        "Phone-no.": "07782292878"
+      }
+    ]
+  },
+  {
+    "city": "kangra",
+    "hospitalinfo": [
+      {
+        "Name": "Dr. Rajendra Prasad Government Medical College",
+        "Address": "Tanda Hospital Rd, Pushp Vihar Colony, Kangra, Himachal Pradesh 176001",
+        "Phone-no.": "01892267115"
+      }
+    ]
+  },
+  {
+    "city": "shimla",
+    "hospitalinfo": [
+      {
+        "Name": "Indira Gandhi Medical College",
+        "Address": "Ridge Sanjauli Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+        "Phone-no.": "01772654713"
+      }
+    ]
+  },
+  {
+    "city": "chandigarh",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College and Hospital",
+        "Address": "Chandi Path, Sector 32B, 32B, Sector 32, Chandigarh, 160047",
+        "Phone-no.": "01722601023"
+      }
+    ]
+  },
+  {
+    "city": "bhavnagar",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "Bus Stand, near State Road Transport Corporation, Panwadi, Bhavnagar, Gujarat 364001",
+        "Phone-no.": "02782510236"
+      }
+    ]
+  },
+  {
+    "city": "rajkot",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College, Rajkot",
+        "Address": "Sadar Civil Hospital Campus, Gujarat 360001",
+        "Phone-no.": "02812458337"
+      }
+    ]
+  },
+  {
+    "city": "surat",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "opp. Income Tax Department Office, Majura Gate, Surat, Gujarat 395001",
+        "Phone-no.": "02612244175"
+      }
+    ]
+  },
+  {
+    "city": "vadodara",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "Vinoba Bhave Rd, Anandpura, Vadodara, Gujarat 390001",
+        "Phone-no.": "02652421594"
+      }
+    ]
+  },
+  {
+    "city": "jamnagar",
+    "hospitalinfo": [
+      {
+        "Name": "M.P. Shah Govt Medical College",
+        "Address": "Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361008",
+        "Phone-no.": "02882553515"
+      }
+    ]
+  },
+  {
+    "city": "patiala",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "Sangrur Rd, opposite Rajindra Hospital, New Lal Bagh Colony, Patiala, Punjab 147001",
+        "Phone-no.": "01752212018"
+      }
+    ]
+  },
+  {
+    "city": "nagpur",
+    "hospitalinfo": [
+      {
+        "Name": "Indira Gandhi Government Medical College & Hospital",
+        "Address": "Mayo Hospital, Central Ave, Mominpura, Nagpur, Maharashtra 440018",
+        "Phone-no.": "07122725423"
+      }
+    ]
+  },
+  {
+    "city": "dhule",
+    "hospitalinfo": [
+      {
+        "Name": "Shree Bhausaheb Hire Govt Medical College",
+        "Address": "Chakkarbardi, Dhule Moghan Rd, Dhule, Maharashtra 424001",
+        "Phone-no.": "02562239408"
+      }
+    ]
+  },
+  {
+    "city": "pune",
+    "hospitalinfo": [
+      {
+        "Name": "BJ Medical College",
+        "Address": "Jai Prakash Narayan Road, Railway Station Rd, near Pune, Maharashtra 411001",
+        "Phone-no.": "02026128000"
+      }
+    ]
+  },
+  {
+    "city": "sangli",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College And Hospital",
+        "Address": "Miraj - Sangola - Pandharpur Rd, Maji Sainik Vasahat, Miraj, Maharashtra 416410",
+        "Phone-no.": "02332232090"
+      }
+    ]
+  },
+  {
+    "city": "aurangabad",
+    "hospitalinfo": [
+      {
+        "Name": "Govt Medical College & Hospital",
+        "Address": "University Road, Jubilee Park, Aurangabad, Maharashtra 431004",
+        "Phone-no.": "02402402412"
+      }
+    ]
+  },
+  {
+    "city": "mumbai",
+    "hospitalinfo": [
+      {
+        "Name": "Grant Medical College & Sir JJ Hospital",
+        "Address": "J J Marg, Nagpada, Mumbai Central, Mumbai, Maharashtra 400008",
+        "Phone-no.": "02223735555"
+      },
+      {
+        "Name": "Haffkine Institute",
+        "Address": "40/W, Acharya Dhonde Marg, Parel Village, Parel, Mumbai, Maharashtra 400012",
+        "Phone-no.": "02224160947"
+      },
+      {
+        "Name": "Seth GS Medical College & KEM Hospital",
+        "Address": "Acharya Donde Marg, Parel East, Parel, Mumbai, Maharashtra 400012",
+        "Phone-no.": "02224107000"
+      }
+    ]
+  },
+  {
+    "city": "thane",
+    "hospitalinfo": [
+      {
+        "Name": "Sir H.N. Reliance Foundation Hospital and Research Center",
+        "Address": "of MIDC, R-282, Thane - Belapur Rd, T.T.C. Industrial Area, Rabale, Navi Mumbai, Maharashtra 400701",
+        "Phone-no.": "02240678000"
+      }
+    ]
+  },
+  {
+    "city": "solapur",
+    "hospitalinfo": [
+      {
+        "Name": "V. M. Govt. Medical College",
+        "Address": "Court Road Opp. District Court Rang Bhavan Chowk, Sidheshwar Peth, Solapur, Maharashtra 413003",
+        "Phone-no.": "02172749401"
+      }
+    ]
+  },
+  {
+    "city": "patna",
+    "hospitalinfo": [
+      {
+        "Name": "Indira Gandhi Institute of Medical Sciences",
+        "Address": "Allahabad bank, Bailey Rd, Sheikhpura, Patna, Bihar 800014",
+        "Phone-no.": "06122297099"
+      },
+      {
+        "Name": "Patna Medical College",
+        "Address": "4, Ashok Rajpath, Pahalwanghat, Muradpur, Patna, Bihar 800001",
+        "Phone-no.": "06122303233"
+      }
+    ]
+  },
+  {
+    "city": "ranchi",
+    "hospitalinfo": [
+      {
+        "Name": "Rajendra Institute of Medical Sciences",
+        "Address": "Rims Cir, Indraprasth Colony, Bariatu, Ranchi, Jharkhand 834009",
+        "Phone-no.": "06512541533"
+      }
+    ]
+  },
+  {
+    "city": "vellore",
+    "hospitalinfo": [
+      {
+        "Name": "Christian Medical College",
+        "Address": "IDA Scudder Rd, Vellore, Tamil Nadu 632004",
+        "Phone-no.": "04162281000"
+      }
+    ]
+  },
+  {
+    "city": "coimbatore",
+    "hospitalinfo": [
+      {
+        "Name": "Coimbatore Medical College",
+        "Address": "Avinashi Rd, Peelamedu, Civil Aerodrome Post, Coimbatore, Tamil Nadu 641018",
+        "Phone-no.": "04222574375"
+      }
+    ]
+  },
+  {
+    "city": "thirurvarur",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "NH-67, Nagappattinam Thiruvarur Thanjavur, Chennai - Trichy Hwy, Thiruvarur, Tamil Nadu 610004",
+        "Phone-no.": ""
+      }
+    ]
+  },
+  {
+    "city": "theni",
+    "hospitalinfo": [
+      {
+        "Name": "Government Theni Medical College",
+        "Address": "Kochi - Madurai - Dhanushkodi Rd, Theni Allinagaram, Tamil Nadu 625531",
+        "Phone-no.": "04546263668"
+      }
+    ]
+  },
+  {
+    "city": "villupuram",
+    "hospitalinfo": [
+      {
+        "Name": "Government Villupuram Medical College",
+        "Address": "Mundiyampakkam, Village, Viluppuram, Tamil Nadu 605601",
+        "Phone-no.": "18001805522"
+      }
+    ]
+  },
+  {
+    "city": "tiruchirappali",
+    "hospitalinfo": [
+      {
+        "Name": "K.A.P. Viswanatham Government Medical College",
+        "Address": "Periyamilaguparai, Colletor's office Road, Tamil Nadu 620001",
+        "Phone-no.": "04312401011"
+      }
+    ]
+  },
+  {
+    "city": "salem",
+    "hospitalinfo": [
+      {
+        "Name": "Kumar Mangalam Government Medical College",
+        "Address": "Steel Plant Road Sarkar Kollappatty, Salem, Tamil Nadu 636030",
+        "Phone-no.": "04272383313"
+      }
+    ]
+  },
+  {
+    "city": "maduria",
+    "hospitalinfo": [
+      {
+        "Name": "Madurai Medical College",
+        "Address": "Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020",
+        "Phone-no.": ""
+      }
+    ]
+  },
+  {
+    "city": "chennai",
+    "hospitalinfo": [
+      {
+        "Name": "Stanley Medical College",
+        "Address": "No. 1, Old Jail Rd, George Town, Chennai, Tamil Nadu 600001",
+        "Phone-no.": "04425282350"
+      }
+    ]
+  },
+  {
+    "city": "leh ladakh",
+    "hospitalinfo": [
+      {
+        "Name": "Sonam Nurboo Memorial Hospital",
+        "Address": "Old Leh Rd, Leh, Jammu and Kashmir 194101",
+        "Phone-no.": "01982252014"
+      }
+    ]
+  },
+  {
+    "city": "khordha",
+    "hospitalinfo": [
+      {
+        "Name": "All India Institute of Medical Sciences (AIIMS)",
+        "Address": "Sijua, Patrapada, Bhubaneswar, Odisha 751019",
+        "Phone-no.": "06742476789"
+      }
+    ]
+  },
+  {
+    "city": "cuttack",
+    "hospitalinfo": [
+      {
+        "Name": "SCB Medical College Hospital",
+        "Address": "Manglabag, Mangalabag, Cuttack, Odisha 753007",
+        "Phone-no.": "06712414080"
+      }
+    ]
+  },
+  {
+    "city": "kolkata",
+    "hospitalinfo": [
+      {
+        "Name": "Apollo Gleneagles Hospitals",
+        "Address": "58, Canal Circular Rd, Kadapara, Phool Bagan, Kankurgachi, Kolkata, West Bengal 700054",
+        "Phone-no.": "03323203040"
+      }
+    ]
+  },
+  {
+    "city": "west medinipur",
+    "hospitalinfo": [
+      {
+        "Name": "Midnapore Medical College",
+        "Address": "Vidyasagar Rd, Midnapore, West Bengal 721101",
+        "Phone-no.": "03222222400"
+      }
+    ]
+  },
+  {
+    "city": "darjeeling",
+    "hospitalinfo": [
+      {
+        "Name": "North Bengal Medical College",
+        "Address": "Sushruta Nagar, Siliguri, West Bengal 734012",
+        "Phone-no.": "03532585478"
+      }
+    ]
+  },
+  {
+    "city": "bengaluru",
+    "hospitalinfo": [
+      {
+        "Name": "Bangalore Medical College & Research Institute",
+        "Address": "Fort, Krishna Rajendra Rd, Bengaluru, Karnataka 560002",
+        "Phone-no.": "08026701529"
+      },
+      {
+        "Name": "Command Hospital (Air Force)",
+        "Address": "Cambridge Rd, Cambridge Layout, Jogupalya, Bengaluru, Karnataka 560007",
+        "Phone-no.": "08025301215"
+      }
+    ]
+  },
+  {
+    "city": "gulbarga",
+    "hospitalinfo": [
+      {
+        "Name": "Gulbarga Institute Of Medical Sciences",
+        "Address": "Veeresh Nagar Cross, Sedam Rd, behind MRMC, Kuvempu Nagar, Gulbarga, Karnataka 585101",
+        "Phone-no.": "08472227252"
+      }
+    ]
+  },
+  {
+    "city": "hassan",
+    "hospitalinfo": [
+      {
+        "Name": "Hassan Institute of Medical Sciences",
+        "Address": "Sri Chamarajendra Hospital Campus, Krishnaraja Pura, Hassan, Karnataka 573201",
+        "Phone-no.": "08172231699"
+      }
+    ]
+  },
+  {
+    "city": "mysuru",
+    "hospitalinfo": [
+      {
+        "Name": "Mysore Medical College and Research Institute",
+        "Address": "Irwin Road, next to Railway Staion, Mysuru, Karnataka 570001",
+        "Phone-no.": "08212520512"
+      }
+    ]
+  },
+  {
+    "city": "shivamogga",
+    "hospitalinfo": [
+      {
+        "Name": "Shimoga Institute of Medical Sciences",
+        "Address": "Sagar Rd, Mission Compound, Shivamogga, Karnataka 577201",
+        "Phone-no.": "08182229933"
+      }
+    ]
+  },
+  {
+    "city": "kasaragod",
+    "hospitalinfo": [
+      {
+        "Name": "Central University of Kerala",
+        "Address": "Tejaswini Hills, Periye, Kerala 671316",
+        "Phone-no.": "04672232403"
+      }
+    ]
+  },
+  {
+    "city": "kozhikode",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "Medical College Junction, 17, Medical College Rd, near Police Station, Kozhikode, Kerala 673008",
+        "Phone-no.": "04952350216"
+      }
+    ]
+  },
+  {
+    "city": "thrissur",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "M. G. Kavu, Kerala 680596",
+        "Phone-no.": "04872200310"
+      }
+    ]
+  },
+  {
+    "city": "thiruvananthapuram",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "Ulloor - Akkulam Rd, near SAT hospital Medical College Junction, Chalakkuzhi, Thiruvananthapuram, Kerala 695011",
+        "Phone-no.": "04712528300"
+      }
+    ]
+  },
+  {
+    "city": "barpeta",
+    "hospitalinfo": [
+      {
+        "Name": "Fakhruddin Medical College",
+        "Address": "Barpeta-Hospital-Jania Rd, Joti Gaon, Assam 781301",
+        "Phone-no.": "03665252081"
+      }
+    ]
+  },
+  {
+    "city": "north goa",
+    "hospitalinfo": [
+      {
+        "Name": "Goa Medical College and Hospital",
+        "Address": "N17, Bambolim, Goa 403202",
+        "Phone-no.": "08322458727"
+      }
+    ]
+  },
+  {
+    "city": "anantapur",
+    "hospitalinfo": [
+      {
+        "Name": "Government Medical College",
+        "Address": "Rahamat Nagar, Anantapur, Andhra Pradesh 515001",
+        "Phone-no.": ""
+      }
+    ]
+  },
+  {
+    "city": "imphal east",
+    "hospitalinfo": [
+      {
+        "Name": "Jawaharlal Nehru Institute of Medical Sciences",
+        "Address": "Porompat, Imphal, Manipur 795004",
+        "Phone-no.": "03852443144"
+      }
+    ]
+  },
+  {
+    "city": "hyderabad",
+    "hospitalinfo": [
+      {
+        "Name": "Nizam's Institute Of Medical Sciences",
+        "Address": "Punjagutta Rd, Punjagutta Market, Punjagutta, Hyderabad, Telangana 500082",
+        "Phone-no.": "04023489000"
+      }
+    ]
+  },
+  {
+    "city": "shillong",
+    "hospitalinfo": [
+      {
+        "Name": "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS)",
+        "Address": "Department of Radiology & Imaging, NEIGRIHMS, Shillong, Meghalaya 793018",
+        "Phone-no.": "03642538013"
+      }
+    ]
+  },
+  {
+    "city": "srinagar",
+    "hospitalinfo": [
+      {
+        "Name": "Sher - i -Kashmir Institute of Medical Sciences",
+        "Address": "SKIMS Main Rd, Soura, Srinagar, 190011",
+        "Phone-no.": "01942401013"
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+
+  {
+    "city": "New Delhi",
+    "labinfo": [
+      {
+      "Name": "City x-Ray & Scan Clinic Pvt. Ltd.",
+      "Address": "Third Floor,City Imaging Building, 4B/18,TilakNagar,110018 New Delhi, Delhi, India",
+      "Phone-no.": "09577727772"
+    }, {
+      "Name": "Dr Lal PathLabs, National Reference laboratory",
+      "Address": "B7 Rd, Block E, Sector 18, 110085 Rohini, New Delhi,Delhi,India",
+      "Phone-no.": "01130258600"
+    }, {
+      "Name": "National Centre for Disease Control",
+      "Address": "22, Sham Nath Marg, Civil Lines, 110054 New Delhi, Delhi,India",
+      "Phone-no.": "01123913148"
+    }, {
+      "Name": "Oncquest Laboratories Limited",
+      "Address": "3-Factory Road, Adjacent Safdarjung Hospital, 110029 New Delhi, Delhi, India",
+      "Phone-no.": "01130611432"
+    }, {
+      "Name": "Prognosis Laboratories",
+      "Address": "515-516, Behind Gupta Properties, Sector 19, Pocket 1,Dwarka, 110075 New Delhi, Delhi, India",
+      "Phone-no.": "08130192290"
+    }, {
+      "Name": "Sir Ganga Ram Hospital Clinical Laboratory Services",
+      "Address": "Sarhadi Gandhi Marg, Old Rajinder Nagar, Rajinder Nagar, 110060 New Delhi, Delhi , India",
+      "Phone-no.": ""
+    }, {
+      "Name": "Dr. Dang’s Lab",
+      "Address": "C2/1 SDA Aurbindo Marg, 110016 New Delhi, Delhi, India",
+      "Phone-no.": "09999992020"
+    }, {
+      "Name": "Laboratory Services Indraprastha Apollo Hospitals",
+      "Address": "Sarita Vihar, 110076 New Delhi, Delhi, India",
+      "Phone-no.": "18605001066"
+    }, {
+      "Name": "Max lab, Max Super Speciality Hospital",
+      "Address": "1, Press Enclave Road, Saket, 110017 New Delhi, Delhi,India",
+      "Phone-no.": "01126515050"
+    }]
+  },
+  {
+    "city": "Lucknow",
+    "labinfo": [{
+      "Name": "RML Mehrotra Pathology Pvt Ltd.",
+      "Address": "A-21/A, Nirala Nagar, 226020 Lucknow,UttarPradesh,India",
+      "Phone-no.": "05224034100"
+    }]
+  },
+  {
+    "city": "gorakhpur",
+    "labinfo":[ {
+      "Name": "ICMR- Regional Medical Research Centre",
+      "Address": "Baba Raghav Das (BRD) Medical College Campus, 273013 Gorakhpur, Uttar                         Pradesh, India",
+      "Phone-no.": "05512971007"
+    }]
+
+  },
+  {
+  "city": "Gurugram",
+  "labinfo": [{
+    "Name": "CORE Diagnostics Pvt Ltd",
+    "Address": "406, Udyog Vihar III, Sector 20, 122016 Gurugram, Haryana, India",
+    "Phone-no.": "18001032673"
+  }, {
+    "Name": "Modern Diagnostic & Research Centre Laboratory",
+    "Address": "363-364/4, Jawahar Nagar, New Railway Road, 122001 Gurugram, Haryana, India",
+    "Phone-no.": "01246712000"
+  }, {
+    "Name": "Molq Lab (Molecular Quest Healthcare Private Limited)",
+    "Address": "Plot 28-29, Electronic City, Sector 18, 122001 Gurugram,Haryana , India",
+    "Phone-no.": "09999778778"
+  }, {
+    "Name": "SRL Limited",
+    "Address": "GP 26 Sector 18, 122015 Gurugram, Haryana, India",
+    "Phone-no.": "01244412121"
+  }, {
+    "Name": "Strand Life Sciences",
+    "Address": "A-17, Info Technology Park, Sector 34, 122001 Gurugram, Haryana, India",
+    "Phone-no.": " "
+  }]
+}, {
+  "city": "gawalior",
+  "labinfo":[ {
+    "Name": "Defence Research & Development Establishment (DRDE)",
+    "Address": "Jhansi Road, 474002 Gwalior, Madhya Pradesh, India",
+    "Phone-no.": "2341550"
+  }]
+
+}, {
+  "city": "jabalpur",
+  "labinfo":[ {
+    "Name": "ICMR-National Institute for Research in Tribal Health",
+    "Address": "Nagpur Road P.O. - Garha, 482003 Jabalpur, Madhya Pradesh, India",
+    "Phone-no.": " "
+  }]
+}, {
+  "city": "dehradun",
+  "labinfo":[ {
+    "Name": "Dr. Ahuja’s Pathlogy and Imaging Centre-Department of Laboratory Medicine",
+    "Address": "7-B Astley Hall, 248001 Dehradun, Uttarakhand, India",
+    "Phone-no.": "01352659700"
+  }]
+}, {
+  "city": "ahmedabad",
+  "labinfo": [{
+    "Name": "PanGenomics International Pvt. Ltd.",
+    "Address": "1st floor sankalp Squre Juna Sharda Mandir Cross Road, 380006 Ahmedabad, Gujarat, India",
+    "Phone-no.": "07940372720"
+  }, {
+    "Name": "Supratech Micropath Laboratory & Research Institute Pvt. Ltd",
+    "Address": "Kedar Builiding, Opp. Krupa Petrol Pump, 380006 Ahmedabad, Gujarat, India",
+    "Phone-no.": "07940408181"
+  },
+    {
+      "Name": "Unipath Speciality Laboratory Limited",
+      "Address": "102, 1st Floor, Sanoma Plaza, Sheth Mangald Road, Ellisbridge, 380006 Ahmedabad, Gujarat, India",
+      "Phone-no.": "07949006800"
+    }
+  ]
+}, {
+  "city": "surat",
+  "labinfo":[ {
+    "Name": "S. N. GENELAB, Nanpura",
+    "Address": "2nd Floor, President Plaza-A, Nanpura, 395001 Surat, Gujarat, India",
+    "Phone-no.": "09586177755"
+  }]
+
+},
+  {
+    "city": "pune",
+    "labinfo": [{
+      "Name": "A.G Diagnostics Pvt Ltd",
+      "Address": "CTS No 809, F.P. 147, Nayantara Building, 411004 Pune, Maharashtra, India",
+      "Phone-no.": "02067636763"
+    }, {
+      "Name": "ICMR-National Institute of Virology",
+      "Address": "130/1, Pashan - Sus Rd, 411021 Pune, Maharashtra, India",
+      "Phone-no.": " "
+    }]
+
+  }, {
+  "city": "Mumbai",
+  "labinfo": [{
+    "Name": "ICMR-National Institute of Virology Field Unit",
+    "Address": "Haffkine Institute Compound, A D Marg, Parel , 4000012 Mumbai, Maharashtra, India",
+    "Phone-no.": "02224160947"
+  }, {
+    "Name": "iGenetic Diagnostics Pvt. Ltd.",
+    "Address": "Off Marol Military Road, 400072 Andheri East, Maharashtra, India",
+    "Phone-no.": "18001031715"
+  }, {
+    "Name": "Kokilaben Dhirubhai Ambani Hospital Laboratory",
+    "Address": "Four Bungalows, Andheri (West), 400053 Mumbai, Maharashtra, India",
+    "Phone-no.": "02230696969"
+  }, {
+    "Name": "Metropolis Healthcare Ltd",
+    "Address": "4th Floor, Commerical Building 1-A, Kohinoor City Mall, Vidyavihar (West), 400070 Mumbai, Maharashtra, India",
+    "Phone-no.": "02233993939"
+  }, {
+    "Name": "SRL Diagnostics",
+    "Address": "Prime Square building, Gaiwadi Industrial, Estate, S.V. Road, Goregaon West, 400062 Mumbai, Maharashtra, India",
+    "Phone-no.": "1800222000"
+  }, {
+    "Name": "Suburban Diagnostics(INDIA) Pvt. Ltd",
+    "Address": "2nd Floor Aston, Shastri Nagar, 400053 Andheri (W), Mumbai, Maharashtra, India",
+    "Phone-no.": "02261700000"
+  },
+    {
+      "Name": "Tata Memorial Centre Diagnostic Services",
+      "Address": "Dr Ernest Borges Road, Parel, 400012 Mumbai, Maharashtra, India",
+      "Phone-no.": "02224177000"
+    },
+    {
+      "Name": "Thyrocare Technologies Limited",
+      "Address": "D-37/1 MIDC, Sanpada,Turbhe, 400703 Navi Mumbai, Maharashtra, India",
+      "Phone-no.": ""
+    }
+  ]
+}, {
+  "city": "thane",
+  "labinfo": [{
+    "Name": "InfeXn Laboratories Private Ltd",
+    "Address": "Road Number 23, Wagle Industrial Estate, 400604 Thane, Maharashtra, India",
+    "Phone-no.": "02225836546"
+  }]
+}, {
+  "city": "hyderabad",
+  "labinfo": [{
+    "Name": "AMERICAN Institute of Pathology and Laboratory Sciences Private Limited",
+    "Address": "1-100/1/CCH, Near Aparna Sarovar, Nallagandla, Serilingampally, Hyderabad, Telangana 500019",
+    "Phone-no.": "18002082000"
+  }, {
+    "Name": "Dr. Remedies labs Private Limited",
+    "Address": "Opp:Model House, Sharma Complex, 1st Floor, Titus Plaza, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "Phone-no.": "04023350611"
+  }, {
+    "Name": "Institute of Preventive Medicine",
+    "Address": "Narayanguda Rd, near YMCA, Lingampally, Kachiguda, Hyderabad, Telangana 500029",
+    "Phone-no.": ""
+  }, {
+    "Name": "Laboratory Services Apollo Hospitals",
+    "Address": "Apollo Health Street, 6th, Jubilee Hills, Hyderabad, Telangana 500096",
+    "Phone-no.": ""
+  }, {
+    "Name": "Medcis Pathlabs India Pvt.Ltd.",
+    "Address": "Bhavani Enclave, PLOT 16&17, SWATHI PLAZA, NEW, Anand Nagar, near ASISH GARDENS, Hyderabad, Telangana 500011",
+    "Phone-no.": "07702292929"
+  }, {
+    "Name": "Apollo Health and Lifestyle Limited-Secunderabad, Diagnostics Laboratory",
+    "Address": "Plot bearing Survey Nos. 140/A, 140/B, 140/C, 141/A, 141/B & 141/C Thokatta Village, Beside Hdfc Bank, Secunderabad, Old Bowenpally, Hyderabad, Telangana 500011",
+    "Phone-no.": "09100911393"
+  }, {
+    "Name": "PATHCARE Labs Pvt. Ltd.",
+    "Address": "Sy. #34, Opp: Geethanjali Engineering College, Cheeryal (V), Keesara (M), Greater Hyderabad, Telangana 501301",
+    "Phone-no.": "09533300600"
+  }, {
+    "Name": "Sir Ronald Ross of Tropical & Communicable Diseases",
+    "Address": "CGHS Complex, Old, Begumpet Airport Road, Motilal Nehru Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "Phone-no.": "04027682218"
+  }, {
+    "Name": "The Department of Laboratory Medicine, Yashoda Hospital",
+    "Address": "Yashoda Hospital, 9th Floor, 1-1, 156 & 157, Alexander Rd, Secunderabad, Telangana 500003",
+    "Phone-no.": "04045674567"
+  }, {
+    "Name": "Vijaya Diagnostic Centre Pvt. Ltd",
+    "Address": "3-6-16 & 17, Street No.19, opp. Lane to Tanishq, Chandra Nagar, Himayatnagar, Hyderabad, Telangana 500029",
+    "Phone-no.": "04023420422"
+  }, {
+    "Name": "Vimta Labs Ltd.",
+    "Address": "142, IDA Phase II, Cherlapalli, Hyderabad, Telangana 500051",
+    "Phone-no.": "04027264141"
+  }]
+}, {
+  "city": "chennai",
+  "labinfo": [{
+    "Name": "Apollo Hospitals Enterprise Limited",
+    "Address": "21 Greams Lane, Off, Greams Road, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+    "Phone-no.": "04428293333"
+  }, {
+    "Name": "King Institute of Preventive Medicine and Research",
+    "Address": "Guindy Institutional Area, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
+    "Phone-no.": "04422501520"
+  }, {
+    "Name": "Neuberg Ehrlich Laboratory Pvt Ltd",
+    "Address": "46 & 48, Masilamani Rd, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+    "Phone-no.": "04441412222"
+  }, {
+    "Name": "Sri Ramachandra Laboratory Services",
+    "Address": "No.1, Ramachandra Nagar, Sri Ramachandra Nagar, Chennai, Tamil Nadu 600116",
+    "Phone-no.": "04424768027"
+  }, {
+    "Name": "Y. R. Gaitonde Centre for AIDS Research and Education (YRG Care)",
+    "Address": "SH 49A, Pallipattu, Tharamani, Chennai, Tamil Nadu 600113",
+    "Phone-no.": "09884730000"
+  }]
+}, {
+  "city": "coimbatore",
+  "labinfo": [{
+    "Name": "Microbiological Laboratory",
+    "Address": "Marudhamalai Rd, Thirumurugan Nagar, Vadavalli, Tamil Nadu 641041",
+    "Phone-no.": "04224342018"
+  }]
+}, {
+  "city": "Bengaluru",
+  "labinfo": [{
+    "Name": "Cancyte Technologies Private Limited",
+    "Address": "Sri Shankara Research Centre 1st Cross, Shankara Matt Premises, Shankarapuram, Basavanagudi, Bengaluru, Karnataka 560004",
+    "Phone-no.": ""
+  }, {
+    "Name": "ICMR-National Institute of Virology, Field Unit",
+    "Address": "1st Block, Jayanagar 1st Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "Phone-no.": " "
+  }, {
+    "Name": "Neuberg Anand Reference Laboratory",
+    "Address": "Aanand Tower, No 54, Bowring Tower, Bowring Hospital Rd, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "Phone-no.": "08025318550"
+  }]
+}, {
+  "city": "ernakulam",
+  "labinfo": [{
+    "Name": "DDRC SRL Diagnostics Pvt Ltd",
+    "Address": "DDRC SRL TOWER,G-131, Panampilly Nagar, Ernakulam, Kerala 682036",
+    "Phone-no.": "09446076400"
+  }]
+}, {
+  "city": "allapuzzha",
+  "labinfo": [{
+    "Name": "ICMR-National Institute of Virology Field Unit",
+    "Address": "Vandanam, Kerala 688005",
+    "Phone-no.": " "
+  }]
+}, {
+  "city": "kasaragod",
+  "labinfo": [{
+    "Name": "Interuniversity",
+    "Address": "Thalappady, Kerala 686019",
+    "Phone-no.": "04812354464"
+  }]
+}, {
+  "city": "kannur",
+  "labinfo":[ {
+    "Name": "Malabar Cancer Centre",
+    "Address": "Laksham Colony Rd, Illathaazha, Kodiyeri, Kerala 670103",
+    "Phone-no.": ""
+  }]
+}, {
+  "city": "kozhikode",
+  "labinfo": [{
+    "Name": "MIMS Laboratory Services",
+    "Address": "Mini Bypass Rd, Govindapuram, Kozhikode, Kerala 673016",
+    "Phone-no.": "04952488000"
+  }]
+}, {
+  "city": "thiruvananthapuram",
+  "labinfo": [{
+    "Name": "State Public Health Laboratory",
+    "Address": "Red Cross Road, near General Hospital Road, Rishimangalam, Pattoor, Thiruvananthapuram, Kerala 695024",
+    "Phone-no.": "04712472225"
+  }, {
+    "Name": "Rajiv Gandhi Center for Biotechnology",
+    "Address": "Melarannoor Road Behind Central Jail Poojapura, Thycaud, Thiruvananthapuram, Kerala 695014",
+    "Phone-no.": "04712529400"
+  }]
+}, {
+  "city": "kolkata",
+  "labinfo": [{
+    "Name": "Department of Laboratory Sciences, Tata Medical Center",
+    "Address": "DJ Block(Newtown), Action Area I, Newtown, New Town, West Bengal 743502",
+    "Phone-no.": ""
+  }, {
+    "Name": "ICMR-National Institute of Cholera & Enteric Diseases (NICED)",
+    "Address": "P- C.I.T. Scheme XM, 33, CIT Rd, Subhas Sarobar Park, Phool Bagan, Beleghata, Kolkata, West Bengal 700010",
+    "Phone-no.": "03323633373"
+  }, {
+    "Name": "Institute of Post Graduate Medical Education and Research (IPGMER)",
+    "Address": "1, 1, Harish Mukherjee Rd, Gokhel Road, Bhowanipore, Kolkata, West Bengal 700020",
+    "Phone-no.": ""
+  }, {
+    "Name": "School of Tropical Medicine",
+    "Address": "108, Chittaranjan Ave, Calcutta Medical College, College Square, Kolkata, West Bengal 700073",
+    "Phone-no.": "03322123697"
+  }]
+},
+  {
+    "city": "khordha",
+    "labinfo": [{
+      "Name": "Department of Laboratory Services Apollo Hospitals",
+      "Address": "plot no 251, Sainik School Rd, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005",
+      "Phone-no.": "06746661066"
+    }, {
+      "Name": "ICMR-Regional Medical Research Centre (RMRC)",
+      "Address": "NALCO Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751023",
+      "Phone-no.": "06742301322"
+    }]
+  }, {
+  "city": "dibrugarh",
+  "labinfo":[ {
+    "Name": "ICMR-Regional Medical Research Centre, NE Region",
+    "Address": "Bokul, Lahowal, Assam 786001",
+    "Phone-no.": "03732381494"
+  }]
+}, {
+  "city": "pondicherry",
+  "labinfo":[ {
+    "Name": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)",
+    "Address": "Jipmer Campus Rd, Gorimedu, Dhanvantari Nagar, Puducherry, 605006",
+    "Phone-no.": "04132271301"
+  }]
+}, {
+  "city": "port Blair",
+  "labinfo": [{
+    "Name": "Regional Medical Research Centre (ICMR)",
+    "Address": "Post Bag 13, Dollygunj, Port Blair, Andaman and Nicobar Islands 744103",
+    "Phone-no.": ""
+  }]
+}, {
+  "city": "gangtok",
+  "labinfo": [{
+    "Name": "Sir Thutob Namgyal Memorial (STNM)",
+    "Address": "Sungava, Gangtok, Sikkim 737101",
+    "Phone-no.": "09845562399"
+  }]
+}
+]

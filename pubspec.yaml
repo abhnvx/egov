@@ -1,0 +1,76 @@
+name: eGov
+description: one-stop smart government portal to promote smart city
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^8.8.0
+  razorpay_flutter: ^1.2.1
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+4
+  url_launcher: ^5.4.1
+  fluttertoast: ^4.0.1
+  share: ^0.6.3+6
+  flutter_search_panel: ^1.0.1
+  flutter_swiper: ^1.1.6
+  flutter_form_builder: ^3.11.2
+  google_sign_in: ^4.5.1
+  firebase_auth: ^0.16.1
+  card_settings: ^1.9.8
+  qr_code_scanner: ^0.0.13
+  youtube_player_flutter: ^6.0.3+2
+  carousel_pro: ^1.0.0
+  flutter_open_whatsapp: ^0.1.2
+ 
+
+
+
+flutter_icons:
+  android: true
+  image_path: "assets/ic_egov.png"
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.0"
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - assets/lab.json
+    - assets/hospital.json
+    - assets/helpline.json
+
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+
+    - family: ProductSans
+      fonts:
+        - asset: assets/GoogleSans-Medium.ttf
+
+    - family: Source Serif Pro
+      fonts:
+        - asset: fonts/SourceSerifPro-Regular.ttf
+
+
+

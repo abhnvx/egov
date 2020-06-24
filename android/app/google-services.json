@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712513074535",
+    "firebase_url": "https://egov-smart.firebaseio.com",
+    "project_id": "egov-smart",
+    "storage_bucket": "egov-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712513074535:android:c1de5e1e327741bc62abc2",
+        "android_client_info": {
+          "package_name": "com.miragelabs.egov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712513074535-23842v5l8gpeaptqoqd6n3lrrvo8u7r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY51S0hJb6ztQ9rTbOMt8L_-7CprLUEXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712513074535-23842v5l8gpeaptqoqd6n3lrrvo8u7r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
